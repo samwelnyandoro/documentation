@@ -1,8 +1,8 @@
-# 🎥 AT2 Data Analytics Video Outline
+# AT2 Data Analytics Video Outline
 
 ---
 
-## 📌 **Overview of Video Content**
+##  **Overview of Video Content**
 
 - Run the notebook live on screen while narrating what you're doing  
 - Explain your dataset choice, the variables you selected, and why  
@@ -12,24 +12,24 @@
 
 ---
 
-## 📤 **Submission Requirements**
+## **Submission Requirements**
 
 - Format: **MP4**
 - Upload to: **Separate assignment page**
 - Naming convention:  
   **LastName_FirstName_43031_AT2c.mp4**
 
-### 🎙️ Recording Tools (any of these):
+###  Recording Tools (any of these):
 - Zoom (screen + camera)
 - OBS Studio (free)
 - Loom
 - Phone recording your screen  
 
-⏱️ Target duration: **3–5 minutes**
+ Target duration: **3–5 minutes**
 
 ---
 
-## 🧭 **Video Structure**
+## **Video Structure**
 
 ---
 
@@ -114,7 +114,7 @@
 
 ---
 
-## ⏱️ **Total Time**
+## **Total Time**
 **4–5 minutes** at a comfortable speaking pace  
 
-💡 *Tip:* Run the notebook before recording so outputs are already rendered — this avoids delays and keeps your narration smooth.
+ *Tip:* Run the notebook before recording so outputs are already rendered — this avoids delays and keeps your narration smooth.

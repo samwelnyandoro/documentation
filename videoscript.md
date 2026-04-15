@@ -1,4 +1,4 @@
-# 🎤 AT2 Data Analytics Video Script
+# AT2 Data Analytics Video Script
 
 ---
 
@@ -147,7 +147,7 @@ Group-based analysis shows these relationships **vary across gender and field of
 
 ---
 
-## ⏱️ **Total Time**
+## **Total Time**
 Approximately **4 to 4.5 minutes** at a natural speaking pace.
 
-💡 *Tip:* Do one practice run before recording so transitions between notebook sections feel smooth.
+ *Tip:* Do one practice run before recording so transitions between notebook sections feel smooth.
